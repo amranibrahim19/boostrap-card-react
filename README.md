@@ -1,6 +1,9 @@
-# Getting Started
+# Clone Project
+git clone [https://github.com/amranibrahim19/boostrap-card-react.git](https://github.com/amranibrahim19/boostrap-card-react.git)
 
-## 1. Clone the Repository
+# Start Project
 
-```bash
-git clone <repository-url>
+    npm install
+    npm start
+
+### Thanks
